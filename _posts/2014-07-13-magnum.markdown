@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Magnum"
+date:   2014-07-13 12:18:23
+categories: bikes
+---

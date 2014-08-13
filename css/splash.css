@@ -1,0 +1,72 @@
+.splash-bg {
+  background: url('../images/bg-chrome.png') repeat-y;
+  position: absolute;
+  left: 50%;
+  margin-left: -640px;
+  width: 1280px;
+  height: 100%;
+  overflow: hidden;
+}
+
+.mast {
+  height: 100%;
+  position: absolute;
+  left: 50%;
+  margin-left: -160px;
+}
+
+.mast .top, .mast .bottom {
+  background: url('../images/stripe.png') repeat-y;
+  margin-left: 60px;
+  height: 50%;
+  left: 50%;
+  position: absolute;
+  width: 200px;
+  overflow: hidden;
+}
+
+.mast .top {
+  top: -58px;
+}
+
+.mast .middle {
+  background: url('../images/49-blue-on-white-porsche-font-280px.png') no-repeat;
+  width: 280px;
+  height: 75px;
+  position: absolute;
+  top: 50%;
+  margin: -38px 0 0 20px;
+  -webkit-transition: background ease 0.2s;
+  -moz-transition: background ease 0.2s;
+  -o-transition: background ease 0.2s;
+  transition: background ease 0.2s;
+}
+
+.mast .middle a {
+  height: 100%;
+  width: 100%;
+  display: inline-block;
+}
+
+.mast .middle:hover {
+  background: url('../images/49-blue-on-orange-porsche-font-280px.png') no-repeat;
+  cursor: pointer;
+}
+
+.mast .bottom {
+  bottom: -56px;
+}
+
+@media only screen and (max-width:320px) and (orientation: portrait) {
+  .mast {
+    left: 55%;
+  }
+
+  .mast .top, .mast .bottom {
+    margin-left: 50px;
+  }
+
+  .mast .middle {
+    margin-left: 0;  
+  }
+}

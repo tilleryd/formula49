@@ -1,0 +1,12 @@
+# Site settings
+title: Formula 49
+email: your-email@domain.com
+description: "What's your speed formula for your 49cc moped or motorcycle?"
+baseurl: ""
+url: "http://formula-49.com"
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
