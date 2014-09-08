@@ -1,24 +1,81 @@
 body {
-  background: #c7c7c7;
-  overflow: hidden;
+  background: #f2f2f2;
+  /*overflow: hidden;*/
 }
 
-.page-bg {
-
+a, a:visited {
+  color: #333333;
 }
 
-.site-header, .page-content {
-  /*background: #a0a0a0;*/
+.wrap {
+  margin-top: 20px;
 }
 
-/*.logo {
-  background: url('../images/49-blue-on-white.png') no-repeat;
-  width: 300px;
-  height: 50px;
-}*/
+.site-nav a.page-link:hover {
+  color: #cc0002;
+}
+
+.page-content {
+  background: none;
+}
+
+.page-header {
+  height: 200px;
+  width: 100%;
+  margin: 20px auto 0 auto;
+  background: url("../images/page-header-bg.png") no-repeat;
+}
+
+.page-header h1 {
+  color: #666666;
+  opacity: 0.8;
+  font-weight: 500;
+  float: left;
+  margin-bottom: 20px;
+  font-size: 52px;
+}
+
+.logo {
+  background: url('../images/formula49.png') no-repeat;
+  width: 347px;
+  height: 40px;
+  margin-top: 10px;
+}
 
 .logo a { 
   height: 100%;
+  width: 100%;
+}
+
+/* Page Headers */
+.page-header-image {
+  height: 160px;
+  width: 330px;
+  float: right;
+  opacity: 0.6;
+}
+
+.body-page-header-image {
+  background: url("../images/body.png") no-repeat;
+}
+
+.engine-page-header-image {
+  background: url("../images/engine-diagram.png") no-repeat;
+}
+
+.performance-page-header-image {
+  background: url("../images/rpm-gauge.png") no-repeat;
+}
+
+.page ul.posts {
+  margin-left: 0;
+}
+
+.page ul.posts li span.post-date {
+  font-size: 12px;
+}
+
+.post img {
   width: 100%;
 }
 

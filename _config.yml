@@ -1,7 +1,7 @@
 # Site settings
 title: Formula 49
 email: your-email@domain.com
-description: "49cc speed formula"
+description: "What's your 49cc speed formula?"
 baseurl: ""
 url: "http://formula-49.com"
 twitter_username: jekyllrb

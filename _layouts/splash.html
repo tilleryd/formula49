@@ -3,12 +3,13 @@
 
   {% include head.html %}
 
-    <body>
-    <div class="splash-bg"></div>
+  <body>
+    <div class="splash-wrapper">
+      <div class="splash-bg"></div>
 
-    {{ content }}
+      {{ content }}
 
+    </div>
     <script type="text/javascript" src="{{ "/javascript/main.js" | prepend: site.baseurl }}"></script>
-
-    </body>
+  </body>
 </html>
