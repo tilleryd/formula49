@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Puch e50 engine rebuild"
+date:   2014-05-13 12:18:23
+categories: engine
+---
+
+I bought a Puch Magnum a couple years ago with a completely roached out engine. I like to think that back in 1979 the previous owner was running from the cops and jumped it into a lake. When the coast was clear, rather than leave it behind, he dragged it out and pushed it back home. Of course it didn't start so he leaned it against his garage went inside and had a few Michelobs.  Little did he know the engine was completely filled with water and so the rusting begins. That's my story at least because I've never seen that much moisture damage in an engine before. The piston rings were rusted to the cylinder and the crankshaft resembeled an artifact from the Titanic. I swapped over a 2hp Maxi engine onto the bike so I could ride but I wanted to get the original engine running again.  So... I rebuilt it over the winter.
+
+<img src="{{ "/images/engine/e50-rebuild/e50-before.jpg" | prepend: site.baseurl }}">
