@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Puch e50 rebuild: Parts list"
+date:   2014-02-18 10:45:07
+categories: engine
+---
+
+All parts ordered from the <a class="callout" href="https://www.treatland.tv/" target="_blank">Kingdom of Treats</a> except for the bearings via <a class="callout" href="http://www.amazon.com/" target="_blank">Amazon</a>.
+
+<table cellpadding="0" cellspacing="0">
+  <tr>
+    <th>Name</th>
+    <th>Qty</th>
+    <th>Price ($)</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.treatland.tv/puch-50cc-airsal-cylinder-kit-p/puch-airsal-50cc-kit-02031138.htm" target="_blank">puch 50cc 38mm airsal cylinder kit</a></td>
+    <td>1</td>
+    <td>99.00</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.treatland.tv/puch-E50-case-allen-bolts-set-stainless-p/e50-allen-bolts-stainless.htm" target="_blank">puch e50 case allen bolts set - stainless</a></td>
+    <td>1</td>
+    <td>11.99</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.treatland.tv/puch-e50-one-speed-seal-set-p/puch-seals-e50-treatland.htm" target="_blank">puch e50 1 speed seal set</a></td>
+    <td>1</td>
+    <td>9.99</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.treatland.tv/puch-moped-race-crankshaft-stuffed-p/puch-crankshaft-super-stuffy.htm" target="_blank">puch e50 super stuffy racer crankshaft</a></td>
+    <td>1</td>
+    <td>110.00</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.amazon.com/dp/B0045E0E8U/ref=pe_385040_30332190_TE_M3T1_ST1_dp_1" target="_blank">6203-2NSE Nachi Bearing Sealed C3 17x40x12</a></td>
+    <td>3</td>
+    <td>32.40</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.amazon.com/dp/B0045DYHK2/ref=pe_385040_30332190_TE_M3T1_ST1_dp_1" target="_blank">6203NR Nachi Bearing Open C3 Snap Ring 17x40x12</a></td>
+    <td>1</td>
+    <td>10.35</td>
+  </tr>
+</table>

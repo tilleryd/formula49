@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Puch e50 rebuild: Shaving weight"
+date:   2014-02-20 10:45:07
+categories: engine
+---
+
+Shaving weight is good especially for mechanical components. The lighter they are the more efficient they are. I don't know if I'm compromising long term durability though. The stock parts seem like they'd last longer compared to the light weight aluminum.  Only time will tell.
+
+<img src="{{ "/images/engine/e50-rebuild/cylinder-weight.jpg" | prepend: site.baseurl }}" alt="comparison of cylinder weights">
+<img src="{{ "/images/engine/e50-rebuild/piston-weight.jpg" | prepend: site.baseurl }}" alt="comparison of piston weights">
+<img src="{{ "/images/engine/e50-rebuild/bearing-weight.jpg" | prepend: site.baseurl }}" alt="comparison of bearing weights">

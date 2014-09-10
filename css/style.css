@@ -7,6 +7,10 @@ a, a:visited {
   color: #333333;
 }
 
+a.callout {
+  color: #cc0022;
+}
+
 .wrap {
   margin-top: 20px;
 }
@@ -36,13 +40,17 @@ a, a:visited {
 }
 
 .logo {
-  background: url('../images/formula49.png') no-repeat;
   width: 347px;
   height: 40px;
   margin-top: 10px;
 }
 
 .logo a { 
+  height: 100%;
+  width: 100%;
+}
+
+.logo img {
   height: 100%;
   width: 100%;
 }
@@ -79,10 +87,41 @@ a, a:visited {
   width: 100%;
 }
 
+table {
+  border-left: 1px solid #333;
+}
+
+table tr th, table tr td {
+  text-align: left;
+  padding: 5px 10px;
+}
+
+table tr th {
+  background: #333;
+  color: #fff;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+table tr td {
+  background: #fff;
+  color: #333;
+  border-right: 1px solid #333;
+  border-bottom: 1px solid #333;
+}
+
 @media only screen and (max-width:320px) and (orientation: portrait) {
-  .page-bg {
-    left: 0;
-    margin-left: 0;
-    width: 320px;
+  .logo {
+    width: 147px;
+    height: 20px;
+    margin-top: 0;
+  }
+}
+
+@media only screen and (max-width:480px) {
+  .logo {
+    width: 247px;
+    height: 30px;
+    margin-top: 0;
   }
 }

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Puch e50 rebuild"
+date:   2014-02-01 12:18:23
+categories: engine
+---
+
+I bought a Puch Magnum a couple years ago with a completely roached out engine. I don't know how so much moisture got into the engine but the piston rings were rusted to the cylinder and the crankshaft resembeled an artifact from the Titanic. I swapped over the 2hp engine from my Puch Maxi so I could ride but I wanted to get the original engine running again. So this winter, it's time a rebuild.
+
+<img src="{{ "/images/engine/e50-rebuild/e50-before.jpg" | prepend: site.baseurl }}" alt="picture of engine before rebuild">
+<img src="{{ "/images/engine/e50-rebuild/rusted-crank.jpg" | prepend: site.baseurl }}" alt="picture of rusted crank">

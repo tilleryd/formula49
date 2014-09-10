@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Puch e50 rebuild: Tear down"
+date:   2014-02-10 8:20:07
+categories: engine
+---
+
+I wish I took more pictures of the engine tear down process. All I have is a picture of a pile of parts. Get yourself a manual or watch this video - <a href="https://www.youtube.com/watch?v=8HhAreElS3I" target="_blank" class="callout">1979 Puch Magnum Project Part 6 - E50 bottom end rebuild</a>.  I basically followed this guy's rebuild to a T.
+
+<img src="{{ "/images/engine/e50-rebuild/teardown.jpg" | prepend: site.baseurl }}" alt="picture of engine torn down">
