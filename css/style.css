@@ -1,6 +1,5 @@
 body {
   background: #f2f2f2;
-  /*overflow: hidden;*/
 }
 
 a, a:visited {
@@ -55,7 +54,6 @@ a.callout {
   width: 100%;
 }
 
-/* Page Headers */
 .page-header-image {
   height: 160px;
   width: 330px;
@@ -110,18 +108,37 @@ table tr td {
   border-bottom: 1px solid #333;
 }
 
-@media only screen and (max-width:320px) and (orientation: portrait) {
+@media only screen and (max-width: 320px), screen and (max-width: 480px), screen and (max-width: 640px) {
   .logo {
-    width: 147px;
-    height: 20px;
     margin-top: 0;
   }
 }
 
-@media only screen and (max-width:480px) {
+@media only screen and (max-width: 480px), screen and (max-width: 640px) {
+  .wrap {
+    margin-top: 10px;
+  }
+}
+
+/* Smartphones (portrait, landscape) ----------- */
+@media only screen and (max-width: 320px), screen and (min-width: 321px) {
+  .wrap {
+    margin-top: 5px;
+  }
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width: 320px) {
+  .logo {
+    width: 200px;
+    height: 23px;
+  }
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width: 321px) {
   .logo {
     width: 247px;
-    height: 30px;
-    margin-top: 0;
+    height: 28px;
   }
 }
